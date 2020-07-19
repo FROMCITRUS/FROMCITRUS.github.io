@@ -1,2 +1,2 @@
 # FROMCITRUS.github.io
-[index] (index.html)
+<a href="index.html">index</a>
